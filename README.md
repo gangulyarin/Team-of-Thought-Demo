@@ -1,5 +1,5 @@
 **Simple Demo on Paper: “Team of Thoughts: Efficient Test-time Scaling of Agentic Systems through Orchestrated Tool Calling” (arXiv:2602.16485)**
-🧩 The core idea (in one sentence)
+The core idea (in one sentence)
 
 Instead of using one AI model to think, the paper builds a team of specialized AIs and a manager (orchestrator) that decides who should think about what.
 
